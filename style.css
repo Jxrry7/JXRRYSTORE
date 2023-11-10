@@ -1,0 +1,105 @@
+
+ul{
+    list-style-type: none;
+    background-color:te;
+    margin: 2% 5%;
+}
+a{
+color: black;
+    text-decoration: none;
+}
+li{
+display: inline-block;
+padding: 20px;
+}
+#men-section{
+
+margin: 3% 10%;
+}
+.col-item{
+width: 27%;
+height: 200px;
+
+
+display: inline-block;
+margin-left: 50px;
+}
+img{
+
+width: 80%;
+}
+button{
+border-radius: 10px;
+padding: 5px 10px;
+margin-right: 20px;
+    background-color: rgb(12, 12, 231);
+}
+body{
+color: #000;
+
+}
+
+.cart{
+
+background-color:lawngreen;
+}
+.Buy{
+background-color:lawngreen;
+}
+
+.item-row{
+width: 50%;
+margin: 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.jeans{
+width: 25%;
+float:right;
+margin-left: 30px;
+}
+.shoe{
+    width: 25%;
+    float:left ;
+    margin-right:30px ;
+
+}
+#More{
+
+padding:1% 0% ;
+margin: 3% 0%;
+background-color:teal;
+}
+
+#bs{
+padding: 5% 15%;
+text-align: center;
+}
+footer{
+   margin: 2%; 
+   text-align: center;
+}
+body{
+background-color:lavender;
+margin: 0%;
+font-family:sans-serif ;
+}
+h1{
+
+font-family: cursive;
+
+}
+h3{
+
+font-family: cursive;
+
+}
+.slogan{
+
+    text-align: center;
+}
+.BN{
+ text-align: center;   
+
+}
